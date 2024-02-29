@@ -1,1 +1,1 @@
-# hiveminednet.github.io
+# Hivemined
